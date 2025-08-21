@@ -68,7 +68,7 @@ ORDER BY experience_level, employment_type;
 ```
 Hasil: Untuk posisi Full-Time (FT), terlihat jelas adanya peningkatan gaji yang konsisten seiring naiknya level pengalaman dari Pemula (EN) hingga Eksekutif (EX). Selain itu, tipe pekerjaan menjadi pembeda signifikan, terutama pada level Pemula, di mana gaji untuk Full-Time jauh lebih tinggi dibandingkan dengan tipe Kontrak (CT) dan Paruh Waktu (PT).
 
-![Grafik Perbandingan Gaji Berdasarkan_Tingkat_Pengalaman_dan_Level_Pekerjaan](chart(1).png)
+![Grafik Perbandingan Gaji Berdasarkan_Tingkat_Pengalaman_dan_Level_Pekerjaan](Tabel%20Perbandingan%20Gaji.png)
 
 Pertanyaan 2: Negara mana yang menawarkan gaji rata-rata tertinggi untuk Data Analyst full-time di level pemula (Entry-level) dan menengah (Mid-level)?
 ```SQL
