@@ -74,8 +74,6 @@ Hasil: Untuk posisi Full-Time (FT), terlihat jelas adanya peningkatan gaji yang 
 
 (Di sini Anda bisa menambahkan tabel singkat atau visualisasi sederhana dari hasilnya)
 
-
-
 Pertanyaan 2: Negara mana yang menawarkan gaji rata-rata tertinggi untuk Data Analyst full-time di level pemula (Entry-level) dan menengah (Mid-level)?
 
 ```SQL
@@ -92,7 +90,7 @@ GROUP BY company_location
 ORDER BY avg_sal_in_usd DESC
 LIMIT 10;
 ```
-(Tampilkan 10 negara teratas dalam bentuk tabel di portofolio Anda)
+![Grafik Gaji Data Analyst](avg_sal_in_usd by company_location.png)
 
 
 ### 4. Analisis Lanjutan: Tren Kesenjangan Gaji 📈
