@@ -1,7 +1,7 @@
 # sql-data-salary-analysis
 Project portfolio analyzing Data Analyst Job Salaries using SQL
 
-# SQL Project: Analisis Gaji di Bidang Data Science
+# SQL Project: Analisis Gaji di Bidang Data Analyst
 
 ## Ringkasan Proyek
 Proyek ini bertujuan untuk menggali wawasan dari dataset Data Science Job Salaries yang bersumber dari Kaggle. Dengan menggunakan SQL, saya melakukan pembersihan data, analisis eksplorasi, dan menjawab beberapa pertanyaan bisnis kunci seputar tren gaji, pengaruh tingkat pengalaman, dan lokasi kerja yang paling prospektif, dengan fokus utama pada peran Data Analyst.
