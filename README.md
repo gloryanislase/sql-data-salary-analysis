@@ -1,6 +1,3 @@
-<img width="65" height="141" alt="image" src="https://github.com/user-attachments/assets/b7b4887e-59d7-4359-8f15-d894cf725614" /># sql-data-salary-analysis
-Project portfolio analyzing Data Analyst Job Salaries using SQL
-
 # SQL Project: Analisis Gaji di Bidang Data Analyst
 
 ## Ringkasan Proyek
@@ -71,8 +68,7 @@ ORDER BY experience_level, employment_type;
 ```
 Hasil: Untuk posisi Full-Time (FT), terlihat jelas adanya peningkatan gaji yang konsisten seiring naiknya level pengalaman dari Pemula (EN) hingga Eksekutif (EX). Selain itu, tipe pekerjaan menjadi pembeda signifikan, terutama pada level Pemula, di mana gaji untuk Full-Time jauh lebih tinggi dibandingkan dengan tipe Kontrak (CT) dan Paruh Waktu (PT).
 
-
-(Di sini Anda bisa menambahkan tabel singkat atau visualisasi sederhana dari hasilnya)
+![Grafik Perbandingan Gaji Berdasarkan_Tingkat_Pengalaman_dan_Level_Pekerjaan](chart(1).png)
 
 Pertanyaan 2: Negara mana yang menawarkan gaji rata-rata tertinggi untuk Data Analyst full-time di level pemula (Entry-level) dan menengah (Mid-level)?
 ```SQL
