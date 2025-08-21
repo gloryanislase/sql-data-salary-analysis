@@ -120,4 +120,6 @@ FULL OUTER JOIN ds_2 ON ds_1.work_year = ds_2.work_year
 ORDER BY
     work_year;
 ```
-(Jelaskan temuan Anda dari output kueri ini, misalnya: "Pada tahun 2020, tidak ada data untuk level Executive, namun kesenjangan gaji terlihat jelas pada tahun 2021 dan 2022.")
+Hasil :Pada tahun 2020, tidak ada data gaji untuk level Executive, namun pada tahun 2021 dan 2022 data menunjukkan bahwa level Executive memiliki gaji rata-rata yang secara signifikan lebih tinggi. Perbedaan gaji terbesar terjadi pada tahun 2022, mengindikasikan bahwa nilai seorang analis berpengalaman tingkat eksekutif semakin dihargai seiring waktu dalam dataset ini.
+
+![Tabel Perbedaan Gaji](Tren%20Gaji%20dari%20Tahun%20ke%20Tahun.png)
