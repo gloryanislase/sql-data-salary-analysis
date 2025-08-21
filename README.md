@@ -122,4 +122,4 @@ ORDER BY
 ```
 Hasil :Pada tahun 2020, tidak ada data gaji untuk level Executive, namun pada tahun 2021 dan 2022 data menunjukkan bahwa level Executive memiliki gaji rata-rata yang secara signifikan lebih tinggi. Perbedaan gaji terbesar terjadi pada tahun 2022, mengindikasikan bahwa nilai seorang analis berpengalaman tingkat eksekutif semakin dihargai seiring waktu dalam dataset ini.
 
-![Tabel Perbedaan Gaji](Tren%20Gaji%20dari%20Tahun%20ke%20Tahun.png)
+![Grafik Perbandingan Gaji](Tren%20Gaji%20Dari%20Tahun%20ke%20Tahun.png)
