@@ -90,7 +90,7 @@ GROUP BY company_location
 ORDER BY avg_sal_in_usd DESC
 LIMIT 10;
 ```
-
+![Uploading avg_sal_in_usd by company_location.png…]()
 
 ### 4. Analisis Lanjutan: Tren Kesenjangan Gaji 📈
 
